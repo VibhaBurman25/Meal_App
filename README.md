@@ -49,7 +49,7 @@ Thanks to the open-source community for their continuous support and inspiration
 #CONTACT
 
 Feel free to customize and modify the project according to your needs.
-If you have any questions, suggestions, or feedback, please feel free to contact me at naveenmaurya7705@gmail.com .
+If you have any questions, suggestions, or feedback, please feel free to contact me at vibhaburmanbcas@gmail.com.
 =======
 #Meal App
 
@@ -96,8 +96,8 @@ TheMeal API: https://www.themealdb.com/api.php
 
 `@Author`
 
-Naveen Maurya
-Email: naveenmaurya7705@gmail.com
+Vibha Burman
+Email: vibhaburmanbcas@gmail.com
 
 Feel free to reach out if you have any questions or feedback!
 >>>>>>> cbcaca5 (my first commiedt message)
